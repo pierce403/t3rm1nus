@@ -1,5 +1,5 @@
 ::selection {
-    background: #379120;
+    background: #777777;
 }
 html, body {
     width: 100%;
@@ -9,7 +9,7 @@ html, body {
 body {
     font-size: 13pt;
     font-family: monospace;
-    color: rgb(39, 216, 186);
+    color: rgb(39, 216, 83);
     background-color: black;
 }
 #container {
@@ -89,7 +89,7 @@ body {
     z-index: 9;
     top: 0;
     left: 0;
-    background-color: #e09f14;
+    background-color: #2f721b;
     opacity: 0.8;
     overflow-x: hidden;
     transition: 0.3s;
