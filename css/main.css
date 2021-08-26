@@ -1,5 +1,5 @@
 ::selection {
-    background: #f7d07e;
+    background: #379120;
 }
 html, body {
     width: 100%;
@@ -9,7 +9,7 @@ html, body {
 body {
     font-size: 13pt;
     font-family: monospace;
-    color: white;
+    color: rgb(39, 216, 186);
     background-color: black;
 }
 #container {
@@ -46,7 +46,7 @@ body {
     user-select: none;
 }
 .prompt-color {
-    color: #e09f14;
+    color: #e01414;
 }
 .input-line {
     display: -webkit-box;

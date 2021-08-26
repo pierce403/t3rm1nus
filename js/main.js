@@ -45,7 +45,7 @@ var configs = (function () {
         host: "example.com",
         user: "guest",
         is_root: true,
-        type_delay: 5
+        type_delay: 1
     };
     return {
         getInstance: function (options) {
