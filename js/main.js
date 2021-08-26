@@ -72,7 +72,7 @@ var files = (function () {
         "contact.txt": "mail@example.com",
         "social_network_1.txt": "https://www.socialite.com/username/",
         "social_network_2.txt": "https://example.com/profile/9382/",
-        "potato.txt": "OMG POTATO"
+        "potato.txt": "OMG POTATO",
         "test" : {"HEY.TXT": "this work?"}
     };
     return {
