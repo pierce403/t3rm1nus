@@ -73,7 +73,7 @@ var files = (function () {
         "social_network_1.txt": "https://www.socialite.com/username/",
         "social_network_2.txt": "https://example.com/profile/9382/",
         "potato.txt": "OMG POTATO",
-        "test" : {"HEY.TXT": "this work?"}
+        "test/HEY.TXT" : "this work?"
     };
     return {
         getInstance: function (options) {
