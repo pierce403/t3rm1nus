@@ -44,7 +44,7 @@ var configs = (function () {
         value_token: "<value>",
         host: "example.com",
         user: "guest",
-        is_root: false,
+        is_root: true,
         type_delay: 20
     };
     return {
