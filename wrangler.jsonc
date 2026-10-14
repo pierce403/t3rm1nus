@@ -23,5 +23,15 @@
       "head_sampling_rate": 0.01
     }
   },
-  "main": "src/worker.mjs"
+  "main": "src/worker.mjs",
+  "routes": [
+    {
+      "pattern": "t3rm1n.us/*",
+      "zone_name": "t3rm1n.us"
+    },
+    {
+      "pattern": "www.t3rm1n.us/*",
+      "zone_name": "t3rm1n.us"
+    }
+  ]
 }
